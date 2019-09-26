@@ -2,3 +2,8 @@
 	margin:auto;
 	spacing: 0;
 }
+
+.content { 
+	color: blue;
+	background-color: red;
+}
